@@ -1,0 +1,19 @@
+# Global
+node_modules/
+.DS_Store
+.env
+*.json
+!package.json
+!package-lock.json
+!tsconfig.json
+
+# Next.js
+.next/
+out/
+build/
+
+# Backend
+backend/venv/
+backend/__pycache__/
+backend/*.db
+backend/temp_uploads/

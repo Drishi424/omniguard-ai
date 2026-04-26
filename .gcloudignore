@@ -1,0 +1,27 @@
+# Secrets
+.env
+*.json
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node (just in case)
+node_modules/
+
+# Git
+.git
+.gitignore
+
+# Misc
+*.log
+temp_uploads/
+
+
+venv/
+__pycache__/
+*.pyc
+*.db
+node_modules/
+.git

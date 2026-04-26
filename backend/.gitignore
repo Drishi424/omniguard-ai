@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Database
+*.db
+*.sqlite3
+
+# Temp files
+temp_uploads/
+
+# IDEs
+.vscode/
+.idea/
+
+# Keys
+*.json
+!package.json
+!package-lock.json
+
